@@ -1,0 +1,881 @@
+{
+    "1": {
+        "store_name": "М.Видео",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Apple",
+                "Samsung",
+                "Xiaomi",
+                "Huawei"
+            ],
+            "Телевизоры": [
+                "Sony",
+                "LG",
+                "Samsung",
+                "Philips"
+            ],
+            "Ноутбуки": [
+                "Acer",
+                "HP",
+                "ASUS",
+                "Lenovo"
+            ],
+            "Бытовая техника": [
+                "Bosch",
+                "Siemens",
+                "Tefal",
+                "Philips"
+            ]
+        },
+        "coordinates": "59.930014, 30.360890",
+        "working_hours": "2"
+    },
+    "2": {
+        "store_name": "Эльдорадо",
+        "category_with_brands": {
+            "Стиральные машины": [
+                "Bosch",
+                "LG",
+                "Samsung",
+                "Electrolux"
+            ],
+            "Холодильники": [
+                "Indesit",
+                "Liebherr",
+                "Bosch",
+                "Haier"
+            ],
+            "Смартфоны": [
+                "Realme",
+                "OPPO",
+                "Vivo",
+                "Apple"
+            ],
+            "Кондиционеры": [
+                "Electrolux",
+                "Mitsubishi",
+                "Daikin",
+                "Ballu"
+            ]
+        },
+        "coordinates": "59.929748, 30.366971",
+        "working_hours": "2"
+    },
+    "3": {
+        "store_name": "DNS",
+        "category_with_brands": {
+            "Компьютеры": [
+                "HP",
+                "Dell",
+                "ASUS",
+                "MSI"
+            ],
+            "Смарт-часы": [
+                "Apple",
+                "Samsung",
+                "Garmin",
+                "Huawei"
+            ],
+            "Пылесосы": [
+                "Dyson",
+                "Xiaomi",
+                "Philips",
+                "Bosch"
+            ],
+            "Игровые консоли": [
+                "Sony",
+                "Microsoft",
+                "Nintendo",
+                "Xbox"
+            ]
+        },
+        "coordinates": "59.957960, 30.306659",
+        "working_hours": "2"
+    },
+    "4": {
+        "store_name": "Технопарк",
+        "category_with_brands": {
+            "Телевизоры": [
+                "Samsung",
+                "LG",
+                "Sony",
+                "Panasonic"
+            ],
+            "Планшеты": [
+                "Apple",
+                "Samsung",
+                "Lenovo",
+                "Huawei"
+            ],
+            "Холодильники": [
+                "Bosch",
+                "LG",
+                "Samsung",
+                "Beko"
+            ],
+            "Микроволновки": [
+                "Samsung",
+                "BBK",
+                "Midea",
+                "Gorenje"
+            ]
+        },
+        "coordinates": "59.907331, 30.317818",
+        "working_hours": "2"
+    },
+    "5": {
+        "store_name": "Ситилинк",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Xiaomi",
+                "OnePlus",
+                "Honor",
+                "Realme"
+            ],
+            "Ноутбуки": [
+                "Lenovo",
+                "MSI",
+                "Dell",
+                "ASUS"
+            ],
+            "Фотоаппараты": [
+                "Canon",
+                "Nikon",
+                "Sony",
+                "Fujifilm"
+            ],
+            "Кухонные комбайны": [
+                "Bosch",
+                "Kenwood",
+                "Moulinex",
+                "Philips"
+            ]
+        },
+        "coordinates": "60.050229, 30.334925",
+        "working_hours": "1"
+    },
+    "6": {
+        "store_name": "OZON",
+        "category_with_brands": {
+            "Смарт-часы": [
+                "Xiaomi",
+                "Garmin",
+                "Amazfit",
+                "Fossil"
+            ],
+            "Видеокарты": [
+                "NVIDIA",
+                "AMD",
+                "ASUS",
+                "MSI"
+            ],
+            "Умные колонки": [
+                "Google",
+                "Amazon",
+                "Яндекс",
+                "JBL"
+            ],
+            "Электрочайники": [
+                "Tefal",
+                "Bosch",
+                "Redmond",
+                "Polaris"
+            ]
+        },
+        "coordinates": "59.934247, 30.304295",
+        "working_hours": "3"
+    },
+    "7": {
+        "store_name": "Wildberries",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Samsung",
+                "Honor",
+                "Apple",
+                "Xiaomi"
+            ],
+            "Роботы-пылесосы": [
+                "Xiaomi",
+                "iRobot",
+                "Polaris",
+                "Kitfort"
+            ],
+            "Аксессуары для компьютеров": [
+                "Logitech",
+                "Razer",
+                "SteelSeries",
+                "Corsair"
+            ],
+            "Встраиваемая техника": [
+                "Bosch",
+                "Electrolux",
+                "Whirlpool",
+                "Gorenje"
+            ]
+        },
+        "coordinates": "59.924345, 30.318024",
+        "working_hours": "3"
+    },
+    "8": {
+        "store_name": "Леруа Мерлен",
+        "category_with_brands": {
+            "Электроинструменты": [
+                "Bosch",
+                "Makita",
+                "DeWalt",
+                "Metabo"
+            ],
+            "Обогреватели": [
+                "Ballu",
+                "Timberk",
+                "Electrolux",
+                "Zanussi"
+            ],
+            "Умные замки": [
+                "Xiaomi",
+                "Aqara",
+                "Samsung",
+                "Yale"
+            ],
+            "Пылесосы": [
+                "Karcher",
+                "Bosch",
+                "Dyson",
+                "LG"
+            ]
+        },
+        "coordinates": "59.817450, 30.318192",
+        "working_hours": "3"
+    },
+    "9": {
+        "store_name": "MediaMarkt",
+        "category_with_brands": {
+            "Телевизоры": [
+                "Samsung",
+                "LG",
+                "Philips",
+                "TCL"
+            ],
+            "Ноутбуки": [
+                "ASUS",
+                "Lenovo",
+                "Apple",
+                "Acer"
+            ],
+            "Посудомоечные машины": [
+                "Bosch",
+                "Electrolux",
+                "Siemens",
+                "Indesit"
+            ],
+            "Мультиварки": [
+                "Redmond",
+                "Polaris",
+                "Tefal",
+                "Philips"
+            ]
+        },
+        "coordinates": "59.907331, 30.317818",
+        "working_hours": "2"
+    },
+    "10": {
+        "store_name": "РЕСТАРТ",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Apple",
+                "Samsung",
+                "Xiaomi",
+                "Realme"
+            ],
+            "Микроволновые печи": [
+                "Samsung",
+                "Panasonic",
+                "Midea",
+                "Gorenje"
+            ],
+            "Кофемашины": [
+                "DeLonghi",
+                "Jura",
+                "Philips",
+                "Bosch"
+            ],
+            "Кулеры для воды": [
+                "AEL",
+                "Ecotronic",
+                "HotFrost",
+                "Aqua Work"
+            ]
+        },
+        "coordinates": "60.016015, 30.285400",
+        "working_hours": "1"
+    },
+    "11": {
+        "store_name": "Норд",
+        "category_with_brands": {
+            "Плиты": [
+                "Gefest",
+                "Hansa",
+                "Bosch",
+                "Electrolux"
+            ],
+            "Встраиваемые холодильники": [
+                "Samsung",
+                "Bosch",
+                "LG",
+                "Siemens"
+            ],
+            "Утюги": [
+                "Tefal",
+                "Philips",
+                "Braun",
+                "Bosch"
+            ],
+            "Хлебопечки": [
+                "Panasonic",
+                "Redmond",
+                "Moulinex",
+                "Philips"
+            ]
+        },
+        "coordinates": "59.836417, 30.224840",
+        "working_hours": "3"
+    },
+    "12": {
+        "store_name": "ТехноШок",
+        "category_with_brands": {
+            "Ноутбуки": [
+                "Dell",
+                "ASUS",
+                "HP",
+                "Acer"
+            ],
+            "Проекторы": [
+                "Epson",
+                "BenQ",
+                "Sony",
+                "LG"
+            ],
+            "Электробритвы": [
+                "Philips",
+                "Braun",
+                "Panasonic",
+                "Xiaomi"
+            ],
+            "Сушильные машины": [
+                "Bosch",
+                "LG",
+                "Miele",
+                "AEG"
+            ]
+        },
+        "coordinates": "59.854735, 30.321831",
+        "working_hours": "2"
+    },
+    "13": {
+        "store_name": "iPort",
+        "category_with_brands": {
+            "iPhone": [
+                "Apple"
+            ],
+            "iPad": [
+                "Apple"
+            ],
+            "MacBook": [
+                "Apple"
+            ],
+            "Аксессуары Apple": [
+                "Apple",
+                "Belkin",
+                "Logitech",
+                "Satechi"
+            ]
+        },
+        "coordinates": "59.932290, 30.350865",
+        "working_hours": "2"
+    },
+    "14": {
+        "store_name": "Re",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Apple"
+            ],
+            "Планшеты": [
+                "Apple"
+            ],
+            "Ноутбуки": [
+                "Apple"
+            ],
+            "Часы": [
+                "Apple"
+            ]
+        },
+        "coordinates": "59.960335, 30.296644",
+        "working_hours": "2"
+    },
+    "15": {
+        "store_name": "Xiaomi Store",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Xiaomi",
+                "POCO"
+            ],
+            "Смарт-гаджеты": [
+                "Xiaomi",
+                "Amazfit"
+            ],
+            "Электросамокаты": [
+                "Xiaomi",
+                "Ninebot"
+            ],
+            "Телевизоры": [
+                "Xiaomi",
+                "Redmi"
+            ]
+        },
+        "coordinates": "59.930014, 30.360890",
+        "working_hours": "2"
+    },
+    "16": {
+        "store_name": "Huawei Store",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Huawei",
+                "Honor"
+            ],
+            "Планшеты": [
+                "Huawei"
+            ],
+            "Ноутбуки": [
+                "Huawei"
+            ],
+            "Смарт-часы": [
+                "Huawei",
+                "Honor"
+            ]
+        },
+        "coordinates": "59.930014, 30.360890",
+        "working_hours": "2"
+    },
+    "17": {
+        "store_name": "Sony Centre",
+        "category_with_brands": {
+            "Телевизоры": [
+                "Sony"
+            ],
+            "Наушники": [
+                "Sony"
+            ],
+            "Игровые консоли": [
+                "Sony PlayStation"
+            ],
+            "Камеры": [
+                "Sony Alpha"
+            ]
+        },
+        "coordinates": "59.930014, 30.360890",
+        "working_hours": "2"
+    },
+    "18": {
+        "store_name": "Билайн",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Apple",
+                "Samsung",
+                "Honor",
+                "Xiaomi"
+            ],
+            "Планшеты": [
+                "Apple",
+                "Samsung",
+                "Lenovo",
+                "Huawei"
+            ],
+            "Ноутбуки": [
+                "HP",
+                "ASUS",
+                "Lenovo",
+                "Acer"
+            ],
+            "Смарт-часы": [
+                "Garmin",
+                "Samsung",
+                "Apple",
+                "Huawei"
+            ]
+        },
+        "coordinates": "59.934800, 30.354123",
+        "working_hours": "3"
+    },
+    "19": {
+        "store_name": "МегаФон",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Realme",
+                "OPPO",
+                "Samsung",
+                "Apple"
+            ],
+            "Модемы и роутеры": [
+                "ZTE",
+                "Huawei",
+                "Xiaomi",
+                "TP-Link"
+            ],
+            "Наушники": [
+                "JBL",
+                "Sony",
+                "Xiaomi",
+                "Beats"
+            ],
+            "Аксессуары": [
+                "Baseus",
+                "Hoco",
+                "Ugreen",
+                "Rock"
+            ]
+        },
+        "coordinates": "59.857474, 30.320751",
+        "working_hours": "1"
+    },
+    "20": {
+        "store_name": "Теле2",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Nokia",
+                "Samsung",
+                "Apple",
+                "Xiaomi"
+            ],
+            "Планшеты": [
+                "Lenovo",
+                "Samsung",
+                "Apple",
+                "Huawei"
+            ],
+            "Сетевое оборудование": [
+                "TP-Link",
+                "Huawei",
+                "ZTE",
+                "D-Link"
+            ],
+            "Аксессуары": [
+                "Xiaomi",
+                "Hoco",
+                "Baseus",
+                "Samsung"
+            ]
+        },
+        "coordinates": "59.930014, 30.360890",
+        "working_hours": "2"
+    },
+    "21": {
+        "store_name": "Яндекс Маркет",
+        "category_with_brands": {
+            "Электрочайники": [
+                "Bosch",
+                "Polaris",
+                "Tefal",
+                "Redmond"
+            ],
+            "Наушники": [
+                "Sony",
+                "JBL",
+                "Beats",
+                "Sennheiser"
+            ],
+            "Смарт-часы": [
+                "Apple",
+                "Samsung",
+                "Huawei",
+                "Amazfit"
+            ],
+            "Компьютерные комплектующие": [
+                "Intel",
+                "AMD",
+                "ASUS",
+                "Gigabyte"
+            ]
+        },
+        "coordinates": "59.850126, 30.214512",
+        "working_hours": "3"
+    },
+    "22": {
+        "store_name": "AliExpress",
+        "category_with_brands": {
+            "Смартфоны": [
+                "OnePlus",
+                "Xiaomi",
+                "Realme",
+                "Vivo"
+            ],
+            "Наушники": [
+                "Xiaomi",
+                "QCY",
+                "Anker",
+                "Baseus"
+            ],
+            "Смарт-браслеты": [
+                "Xiaomi",
+                "Huawei",
+                "Honor",
+                "Realme"
+            ],
+            "Игровые мыши": [
+                "Logitech",
+                "Razer",
+                "SteelSeries",
+                "Corsair"
+            ]
+        },
+        "coordinates": "59.855828, 30.320517",
+        "working_hours": "3"
+    },
+    "23": {
+        "store_name": "Плеер.ру",
+        "category_with_brands": {
+            "Видеокарты": [
+                "NVIDIA",
+                "ASUS",
+                "MSI",
+                "Gigabyte"
+            ],
+            "Игровые ноутбуки": [
+                "Acer",
+                "ASUS",
+                "MSI",
+                "Dell"
+            ],
+            "Портативные колонки": [
+                "JBL",
+                "Sony",
+                "Harman/Kardon",
+                "Bose"
+            ],
+            "Фотоаппараты": [
+                "Canon",
+                "Nikon",
+                "Fujifilm",
+                "Sony"
+            ]
+        },
+        "coordinates": "59.930014, 30.360890",
+        "working_hours": "2"
+    },
+    "24": {
+        "store_name": "ONLINETRADE.RU",
+        "category_with_brands": {
+            "Видеокарты": [
+                "ASUS",
+                "MSI",
+                "Gigabyte",
+                "Palit"
+            ],
+            "Стиральные машины": [
+                "Bosch",
+                "LG",
+                "Samsung",
+                "Indesit"
+            ],
+            "Планшеты": [
+                "Apple",
+                "Samsung",
+                "Lenovo",
+                "Huawei"
+            ],
+            "Пылесосы": [
+                "Xiaomi",
+                "Dyson",
+                "Bosch",
+                "Karcher"
+            ]
+        },
+        "coordinates": "59.850519, 30.349456",
+        "working_hours": "1"
+    },
+    "25": {
+        "store_name": "Техносила",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Apple",
+                "Samsung",
+                "Xiaomi",
+                "Honor"
+            ],
+            "Холодильники": [
+                "Bosch",
+                "Samsung",
+                "LG",
+                "Indesit"
+            ],
+            "Планшеты": [
+                "Lenovo",
+                "Apple",
+                "Samsung",
+                "Huawei"
+            ],
+            "Телевизоры": [
+                "Samsung",
+                "LG",
+                "Sony",
+                "Philips"
+            ]
+        },
+        "coordinates": "59.817450, 30.318192",
+        "working_hours": "2"
+    },
+    "26": {
+        "store_name": "Элекс",
+        "category_with_brands": {
+            "Ноутбуки": [
+                "HP",
+                "Dell",
+                "Acer",
+                "ASUS"
+            ],
+            "Холодильники": [
+                "LG",
+                "Bosch",
+                "Samsung",
+                "Haier"
+            ],
+            "Пылесосы": [
+                "Philips",
+                "Dyson",
+                "Xiaomi",
+                "Samsung"
+            ],
+            "Водонагреватели": [
+                "Electrolux",
+                "Ariston",
+                "Timberk",
+                "Thermex"
+            ]
+        },
+        "coordinates": "59.985543, 30.197870",
+        "working_hours": "2"
+    },
+    "27": {
+        "store_name": "КЕЙ",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Apple",
+                "Samsung",
+                "Xiaomi",
+                "OnePlus"
+            ],
+            "Ноутбуки": [
+                "Lenovo",
+                "ASUS",
+                "MSI",
+                "HP"
+            ],
+            "Умные колонки": [
+                "Яндекс",
+                "Amazon",
+                "Google",
+                "JBL"
+            ],
+            "Периферия для ПК": [
+                "Logitech",
+                "Razer",
+                "SteelSeries",
+                "Corsair"
+            ]
+        },
+        "coordinates": "59.860411, 30.222349",
+        "working_hours": "1"
+    },
+    "28": {
+        "store_name": "Связной",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Apple",
+                "Samsung",
+                "Xiaomi",
+                "Honor"
+            ],
+            "Планшеты": [
+                "Apple",
+                "Samsung",
+                "Huawei",
+                "Lenovo"
+            ],
+            "Смарт-часы": [
+                "Apple",
+                "Samsung",
+                "Garmin",
+                "Amazfit"
+            ],
+            "Наушники": [
+                "JBL",
+                "Sony",
+                "Beats",
+                "Sennheiser"
+            ]
+        },
+        "coordinates": "59.932290, 30.350865",
+        "working_hours": "2"
+    },
+    "29": {
+        "store_name": "Румиком",
+        "category_with_brands": {
+            "Смартфоны": [
+                "Samsung",
+                "Apple",
+                "Xiaomi",
+                "Huawei"
+            ],
+            "Планшеты": [
+                "Apple",
+                "Samsung",
+                "Lenovo",
+                "Huawei"
+            ],
+            "Ноутбуки": [
+                "ASUS",
+                "HP",
+                "Acer",
+                "Lenovo"
+            ],
+            "Фотоаппараты": [
+                "Canon",
+                "Nikon",
+                "Sony",
+                "Fujifilm"
+            ]
+        },
+        "coordinates": "59.854735, 30.321831",
+        "working_hours": "1"
+    },
+    "30": {
+        "store_name": "E2E4",
+        "category_with_brands": {
+            "Видеокарты": [
+                "NVIDIA",
+                "MSI",
+                "Gigabyte",
+                "Palit"
+            ],
+            "Смартфоны": [
+                "Xiaomi",
+                "Realme",
+                "Samsung",
+                "Apple"
+            ],
+            "Телевизоры": [
+                "LG",
+                "Samsung",
+                "Sony",
+                "Panasonic"
+            ],
+            "Наушники": [
+                "JBL",
+                "Sony",
+                "Bose",
+                "Sennheiser"
+            ]
+        },
+        "coordinates": "59.860411, 30.222349",
+        "working_hours": "1"
+    }
+}
